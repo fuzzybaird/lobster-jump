@@ -1,0 +1,16 @@
+h1 {
+    color: deeppink;
+}
+.screen {
+    width: 400px;
+}
+#gamecontainer {
+    position: relative;
+    width: 500px;
+    height: 232px;
+    background-color: aqua;
+}
+#cage {
+    position: absolute;
+    left: 500px;
+}
